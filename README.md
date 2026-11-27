@@ -5,7 +5,7 @@ I'm a Computer Science and Engineering undergraduate at **North South University
 - 🔭 **Currently working on:** Production Python automation on Render & expanding my multi-purpose Discord bot for **Bunch Of Potatoes** (a 350+ member student study community I founded).
 - 🌱 **Currently learning:** Agentic AI workflows, backend architecture (Node.js, Next.js), and scalable API design.
 - 💻 **Environment:** Fedora Linux, Git, and AI-assisted dev workflows.
-- 📫 **Reach me:** [Discord] (https://discord.com/users/1294971060348911708)
+- 📫 **Reach me:** [Discord](https://discord.com/users/1294971060348911708)
 
 ---
 
